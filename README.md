@@ -14,7 +14,7 @@ This repository contains a Python script for motion detection and camera process
    ```
 
 #### Usage:
-1. Ensure Python 3.x is installed on your system.
+1. Ensure Python 3.10 is installed on your system.
 2. Run the script `motion_detection.py`:
    ```
    python motion_detection.py
@@ -26,6 +26,6 @@ This repository contains a Python script for motion detection and camera process
   - Update the video upload endpoint URL in the `upload_video` method.
 
 #### Requirements:
-- Python 3.x
+- Python 3.10
 - OpenCV
 - requests
