@@ -8,10 +8,6 @@ This repository contains a Python script for motion detection and camera process
    ```
    git clone https://github.com/your-username/Motion-Detection-Camera-Processing.git
    ```
-2. Install the required Python libraries:
-   ```
-   pip install -r requirements.txt
-   ```
 
 #### Usage:
 1. Ensure Python 3.10 is installed on your system.
